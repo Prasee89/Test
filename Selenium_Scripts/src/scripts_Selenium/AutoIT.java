@@ -24,7 +24,7 @@ public class AutoIT {
 		 Runtime.getRuntime().exec("C:\\Program Files (x86)\\AutoIt3\\Uploadfile.exe");
 		 //'close' method is used to close the browser window
 		 driver.close();
-		 driver.close();
+		 driver.close();//Closing
 
 	}
 

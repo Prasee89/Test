@@ -32,7 +32,7 @@ public class BaseClass {
 
     /**
 
-     * This function will take screenshot
+
 
      * @param webdriver
 

@@ -37,6 +37,7 @@ public class Guru99TakeScreenshot {
 				File DestFile=new File(fileWithPath);
 				//Copy file at destination
 				FileUtils.copyFile(SrcFile, DestFile);
+		System.out.println("screenshot taken successfully");
 			
 	}
 
